@@ -1,0 +1,10 @@
+C:\Users\Abhishek Kumar\Documents\C#.Net_Udemy\ConsoleApp1\ClassLibraryFields\bin\Debug\netcoreapp3.1\ClassLibraryFields.deps.json
+C:\Users\Abhishek Kumar\Documents\C#.Net_Udemy\ConsoleApp1\ClassLibraryFields\bin\Debug\netcoreapp3.1\ClassLibraryFields.dll
+C:\Users\Abhishek Kumar\Documents\C#.Net_Udemy\ConsoleApp1\ClassLibraryFields\bin\Debug\netcoreapp3.1\ClassLibraryFields.pdb
+C:\Users\Abhishek Kumar\Documents\C#.Net_Udemy\ConsoleApp1\ClassLibraryFields\obj\Debug\netcoreapp3.1\ClassLibraryFields.csproj.AssemblyReference.cache
+C:\Users\Abhishek Kumar\Documents\C#.Net_Udemy\ConsoleApp1\ClassLibraryFields\obj\Debug\netcoreapp3.1\ClassLibraryFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek Kumar\Documents\C#.Net_Udemy\ConsoleApp1\ClassLibraryFields\obj\Debug\netcoreapp3.1\ClassLibraryFields.AssemblyInfoInputs.cache
+C:\Users\Abhishek Kumar\Documents\C#.Net_Udemy\ConsoleApp1\ClassLibraryFields\obj\Debug\netcoreapp3.1\ClassLibraryFields.AssemblyInfo.cs
+C:\Users\Abhishek Kumar\Documents\C#.Net_Udemy\ConsoleApp1\ClassLibraryFields\obj\Debug\netcoreapp3.1\ClassLibraryFields.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Kumar\Documents\C#.Net_Udemy\ConsoleApp1\ClassLibraryFields\obj\Debug\netcoreapp3.1\ClassLibraryFields.dll
+C:\Users\Abhishek Kumar\Documents\C#.Net_Udemy\ConsoleApp1\ClassLibraryFields\obj\Debug\netcoreapp3.1\ClassLibraryFields.pdb
