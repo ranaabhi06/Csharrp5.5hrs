@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class String
     {
-        public static void Main()
+        public static void Main6()
         {
             Console.WriteLine(":::::::::::::::::::String questions::::::::::::::::");
         }

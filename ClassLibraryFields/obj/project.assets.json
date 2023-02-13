@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "ClassLibraryFields/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/ClassLibraryFields.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ClassLibraryFields.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "ClassLibraryFields/1.0.0": {
-      "type": "project",
-      "path": "../ClassLibraryFields/ClassLibraryFields.csproj",
-      "msbuildProject": "../ClassLibraryFields/ClassLibraryFields.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "ClassLibraryFields >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Abhishek Kumar\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abhishek Kumar\\Documents\\C#.Net_Udemy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Abhishek Kumar\\Documents\\C#.Net_Udemy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Abhishek Kumar\\Documents\\C#.Net_Udemy\\ConsoleApp1\\ClassLibraryFields\\ClassLibraryFields.csproj",
+      "projectName": "ClassLibraryFields",
+      "projectPath": "C:\\Users\\Abhishek Kumar\\Documents\\C#.Net_Udemy\\ConsoleApp1\\ClassLibraryFields\\ClassLibraryFields.csproj",
       "packagesPath": "C:\\Users\\Abhishek Kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abhishek Kumar\\Documents\\C#.Net_Udemy\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Abhishek Kumar\\Documents\\C#.Net_Udemy\\ConsoleApp1\\ClassLibraryFields\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abhishek Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,11 +34,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\Abhishek Kumar\\Documents\\C#.Net_Udemy\\ConsoleApp1\\ClassLibraryFields\\ClassLibraryFields.csproj": {
-              "projectPath": "C:\\Users\\Abhishek Kumar\\Documents\\C#.Net_Udemy\\ConsoleApp1\\ClassLibraryFields\\ClassLibraryFields.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -79,12 +56,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.25, 3.1.25]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
